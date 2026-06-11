@@ -12,6 +12,6 @@ int main()
     cout<<"Enetr the number";
     cin>>n;
     int sum=sum_n(n);
-    cout<<"Sum of N Natural Number"<<sum;
+    cout<<"Sum of N Natural Number :"<<sum;
     return 0;
 }
